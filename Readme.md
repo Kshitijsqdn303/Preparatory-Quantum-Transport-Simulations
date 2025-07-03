@@ -58,10 +58,28 @@ This repository contains a series of progressively advanced quantum transport si
 
 /Crystal libraries.ipynb ← experimental 3D extension work
 
-yaml
-Copy
-Edit
-
 
 
 ```
+
+
+
+---
+
+## 🚀 What's Next
+
+This work prepares for a deeper exploration of:
+- **Spatio-eigen NEGF**
+- **Time-dependent NEGF** simulations
+- **Quantum decoherence and dissipation models**
+- **Quantum information transport and scattering matrices**
+
+---
+
+## 👨‍🔬 Author
+
+Kshitij — physics undergrad passionate about condensed matter, quantum transport, and computational modeling.
+
+---
+
+
